@@ -1,2 +1,2 @@
 # javascript-epfc
-Scholl projects
+School projects
